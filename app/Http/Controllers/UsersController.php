@@ -10,9 +10,7 @@ use App\Models\User;
 class UsersController extends Controller
 {
     public function search(Request $request){
-
         $users = User::all();
-        return view('user_list',['users' => $users]);
-    
+        return view('user_list', compact('users'));
     }  
 }
