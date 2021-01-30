@@ -15,3 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/users', 'UsersController@search');
+Route::get('/users/create', 'UsersController@create');

@@ -1,0 +1,15 @@
+.DS_Store
+.env
+database.php
+bootstrap/
+public/
+storage/framework/
+storage/logs/
+tests/
+vendor/
+bootstrap.zip
+database.zip
+public.zip
+tests.zip
+vendor.zip
+composer.lock
