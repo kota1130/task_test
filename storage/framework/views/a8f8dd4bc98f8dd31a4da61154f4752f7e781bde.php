@@ -1,1 +1,0 @@
-<div class = "container">入門課題2です</div><?php /**PATH /Applications/MAMP/htdocs/task_test/resources/views/user_list.blade.php ENDPATH**/ ?>
