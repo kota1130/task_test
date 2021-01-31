@@ -2,6 +2,7 @@
 <html lang="ja">
 　<head>
 　　<meta charset="utf-8">
+<<<<<<< HEAD
 　　<title>ユーザー情報一覧</title>
 　</head>
 　<body>
